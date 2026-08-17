@@ -3,7 +3,7 @@
 A simple **Chess Board** created using **HTML and CSS**.
 This project is made for practicing HTML structure, CSS styling, and grid layout.
 
-## 📌 Project Preview
+## 📌 Project Preview 
 
 This project creates a classic **8×8 chess board** using HTML and CSS.
 
