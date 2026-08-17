@@ -9,7 +9,7 @@ This project creates a classic **8×8 chess board** using HTML and CSS.
 
 Each square is styled with alternating light and dark colors to create the chessboard pattern.
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used 
 
 * **HTML5** – Used to create the structure of the chess board.
 * **CSS3** – Used for styling, colors, sizing, and layout.
